@@ -124,6 +124,7 @@ footer{
 
 footer div p{
 
+  width: 100%;
   position: absolute;
   top: 50%;
   color: rgb(200, 197, 197);
