@@ -1,3 +1,9 @@
+.main-container{
+
+  background-color: rgba(175, 174, 174, 0.715);
+
+}
+
 header{
 
   width: 100%;
@@ -19,6 +25,7 @@ section div img {
 
 h1 {
 
+  color: white;
   font-weight: bold;
   font-size: 20px;
   font-family: "High Tower Text";
@@ -27,12 +34,14 @@ h1 {
 
 h2{
 
+  color: white;
   width: 100%;
 
 }
 
 nav div ul li{
 
+  color: white;
   font-weight: bold;
   font-size: 20px;
   font-family: "High Tower Text";
