@@ -1,0 +1,166 @@
+section{
+
+  height: 100%;
+
+}
+
+section div img {
+
+  margin-left: 5rem;
+
+}
+
+h1 {
+
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "High Tower Text";
+
+}
+
+h2{
+
+  width: 100%;
+
+}
+
+nav div ul li{
+
+  font-weight: bold;
+  font-size: 20px;
+  font-family: "High Tower Text";
+
+}
+
+section div img{
+
+  width: 75%;
+  border-radius: 2rem;
+
+}
+
+li{
+
+  font-size: 20px;
+  margin-bottom: 0.1rem;
+
+}
+
+.services{
+
+  margin: 10px;
+
+}
+
+.crd{
+
+  height: 16rem;
+  width: 10rem;
+
+}
+.crd-img{
+
+  height: 10rem;
+  width: 50%;
+  border-radius: 0;
+  margin: 2rem auto;
+
+}
+
+.card-q{
+
+  font-size: 2rem;
+  font-family: "High Tower Text";
+  text-align: center
+
+}
+
+textarea{
+
+  height: 10rem;
+
+}
+
+input, textarea{
+
+  width: 100%;
+
+}
+
+.form-elements-align{
+
+  margin: 0.6rem;
+
+}
+
+input[type="submit"]{
+
+  font-weight: bold;
+  font-family: sans-serif;
+  border: 1px solid black;
+  color: aliceblue;
+  background-color: blue
+
+}
+
+input[type="submit"]:hover{
+
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.906)
+
+}
+
+footer{
+
+  height: 7rem;
+  position: relative;
+
+}
+
+.copyright{
+
+  width: 100%;
+
+}
+
+footer div p{
+
+  position: absolute;
+  top: 50%;
+  color: rgb(200, 197, 197);
+
+}
+
+footer div p a{
+
+  color: rgb(230, 228, 228);
+  font-weight: 600;
+  text-decoration: underline black;
+
+}
+
+span{
+
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(210, 210, 210)
+
+}
+
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.4/font/bootstrap-icons.css");
+
+@import url(//db.onlinewebfonts.com/c/9e23421978544d8e00a00eb47740d280?family=High+Tower+Text);
+
+@font-face {
+  font-family: "High Tower Text";
+  src: url("//db.onlinewebfonts.com/t/9e23421978544d8e00a00eb47740d280.eot");
+  src: url("//db.onlinewebfonts.com/t/9e23421978544d8e00a00eb47740d280.eot?#iefix")
+      format("embedded-opentype"),
+    url("//db.onlinewebfonts.com/t/9e23421978544d8e00a00eb47740d280.woff2")
+      format("woff2"),
+    url("//db.onlinewebfonts.com/t/9e23421978544d8e00a00eb47740d280.woff")
+      format("woff"),
+    url("//db.onlinewebfonts.com/t/9e23421978544d8e00a00eb47740d280.ttf")
+      format("truetype"),
+    url("//db.onlinewebfonts.com/t/9e23421978544d8e00a00eb47740d280.svg#High Tower Text")
+      format("svg");
+}
